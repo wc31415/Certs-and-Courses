@@ -6,3 +6,6 @@
 * Introduction to R Course - [Certificate# 6,271,436](https://www.datacamp.com/statement-of-accomplishment/course/84ea12c5c0199b5c256fafe5267667b6ae5eb0a6)
 * Intermediate R Course - [Certificate# 6,280,582](https://www.datacamp.com/statement-of-accomplishment/course/720af503e12b02789f5094d27bf81ef6b33326c3)
 * Introduction to the Tidyverse Course - [Certificate# 6,296,853](https://www.datacamp.com/statement-of-accomplishment/course/33c5e7ccb307117a86ba4cb23643c490c8edb97a)
+* Importing Data in R (Part 1) Course - [Certificate# 6,315,406](https://www.datacamp.com/statement-of-accomplishment/course/0e71451822948b5a3e1ee96e741a6c7e44c90c52)
+* Importing Data in R (Part 2) Course - [Certificate# 6,331,889](https://www.datacamp.com/statement-of-accomplishment/course/f8fb3cd0cc100ed6832f1d8be67c769859a33c38)
+* Cleaning Data in R Course - [Certificate# 6,347,726](https://www.datacamp.com/statement-of-accomplishment/course/c1afcd02f3a0618d67969e7d1c828646658a8aa4)
