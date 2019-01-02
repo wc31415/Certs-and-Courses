@@ -1,4 +1,4 @@
-# Certs
+## Certs
 * Data Scientist with R Track
   * https://www.datacamp.com/statement-of-accomplishment/track/a44af56c59962942a89443d9368fa37f7db07dbd
 
