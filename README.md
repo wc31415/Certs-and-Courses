@@ -4,3 +4,5 @@
 * Data Analyst with R Track - [Certificate# 58,857]( https://www.datacamp.com/statement-of-accomplishment/track/b7255dc14ecee9aefccd9db7b2e5643c47bc9ab2)
 ## Courses
 * Introduction to R Course - [Certificate# 6,271,436](https://www.datacamp.com/statement-of-accomplishment/course/84ea12c5c0199b5c256fafe5267667b6ae5eb0a6)
+* Intermediate R Course - [Certificate# 6,280,582](https://www.datacamp.com/statement-of-accomplishment/course/720af503e12b02789f5094d27bf81ef6b33326c3)
+* Introduction to the Tidyverse Course - [Certificate# 6,296,853](https://www.datacamp.com/statement-of-accomplishment/course/33c5e7ccb307117a86ba4cb23643c490c8edb97a)
