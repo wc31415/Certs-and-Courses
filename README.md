@@ -31,7 +31,7 @@
 * Object-Oriented Programming in R: S3 and R6 Course - [Certificate# 7,606,601](https://www.datacamp.com/statement-of-accomplishment/course/241ff2ca22014081166c37ca0ab48305a842024e)
 * Sentiment Analysis in R: The Tidy Way Course - [Certificate# 7,615,680](https://www.datacamp.com/statement-of-accomplishment/course/e8de92399ac1de746fcf47b7f3b652c554bfe930)
 * Introduction to Python Course - [Certificate# 7,634,829](https://www.datacamp.com/statement-of-accomplishment/course/2551bf403cb8dd3c6de0df406659604b54bee173)
-
+* Intermediate Python for Data Science Course - [Certificate# 8,134,049](https://www.datacamp.com/statement-of-accomplishment/course/e0af18ff9be56e4190cb973642bd5bbe3f502263)
 
 
 
