@@ -34,7 +34,7 @@
 * Intermediate Python for Data Science Course - [Certificate# 8,134,049](https://www.datacamp.com/statement-of-accomplishment/course/e0af18ff9be56e4190cb973642bd5bbe3f502263)
 * Python Data Science Toolbox (Part 1) Course - [Certificate# 8,460,965](https://www.datacamp.com/statement-of-accomplishment/course/3038a87f22e9b21b5ff02d902c9231b40a264fc4)
 * Python Data Science Toolbox (Part 2) Course - [Certificate# 8,900,244](https://www.datacamp.com/statement-of-accomplishment/course/c3fbdd3c8edc11e473a5dce59c9add0bb280e0f7)
-
+* Importing Data in Python (Part 1) Course - [Certificate# 9,093,302](https://www.datacamp.com/statement-of-accomplishment/course/1c258602aa16e9c4796c5a9b32da83556dab65b6)
 
 
 
