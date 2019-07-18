@@ -16,14 +16,14 @@
 * Cleaning Data in R Course - [Certificate# 6,347,726](https://www.datacamp.com/statement-of-accomplishment/course/c1afcd02f3a0618d67969e7d1c828646658a8aa4)
 * Importing & Cleaning Data in R: Case Studies Course - [Certificate# 6,359,688](https://www.datacamp.com/statement-of-accomplishment/course/b6535043213036ac450ed2323f38da25b2ed7834)
 * Writing Functions in R Course - [Certificate# 6,371,546](https://www.datacamp.com/statement-of-accomplishment/course/5b8325c55a630b36b1f58b5677d587b3e253f129)
-* Data Manipulation in R with dplyr Course - [Certificate# 6,413,228](https://www.datacamp.com/statement-of-accomplishment/course/8aa93bab2a1d446ae00b04fa1bf30e2b6364134b)
-* Joining Data in R with dplyr Course - [Certificate# 6,418,461](https://www.datacamp.com/statement-of-accomplishment/course/feacf4ba067798a9d712fb74b96c07040c7e3821)
-* Intro to SQL for Data Science Course - [Certificate# 6,460,085](https://www.datacamp.com/statement-of-accomplishment/course/7029127014889175555815fb8f4112301dd03a87)
-* Data Visualization with ggplot2 (Part 1) Course - [Certificate# 6,470,751](https://www.datacamp.com/statement-of-accomplishment/course/809b125a294fd6a06e4ba7ec2055815cf571c50d)
-* Data Visualization with ggplot2 (Part 2) Course - [Certificate# 6,499,206](https://www.datacamp.com/statement-of-accomplishment/course/f873dd35b2b9a634cf44f43cb2547bbde4eeb317)
-* Working with Dates and Times in R Course - [Certificate# 6,515,527](https://www.datacamp.com/statement-of-accomplishment/course/931579ab98e291d880a2fe77bef530e035b8c4cc)
-* Introduction to Data Course - [Certificate# 6,542,975](https://www.datacamp.com/statement-of-accomplishment/course/c34b5ed70b0f391489a7f519014e534070c945ce)
-* Exploratory Data Analysis Course - [Certificate# 6,552,918](https://www.datacamp.com/statement-of-accomplishment/course/db1d5ff20df7e3b94ad8404735f9db4a9a44fffd)
+* [6413228](https://www.datacamp.com/statement-of-accomplishment/course/8aa93bab2a1d446ae00b04fa1bf30e2b6364134b) - Data Manipulation in R with dplyr
+* [6418461](https://www.datacamp.com/statement-of-accomplishment/course/feacf4ba067798a9d712fb74b96c07040c7e3821) - Joining Data in R with dplyr
+* [6460085](https://www.datacamp.com/statement-of-accomplishment/course/7029127014889175555815fb8f4112301dd03a87) - Intro to SQL for Data Science
+* [6470751](https://www.datacamp.com/statement-of-accomplishment/course/809b125a294fd6a06e4ba7ec2055815cf571c50d) - Data Visualization with ggplot2 (Part 1)
+* [6499206](https://www.datacamp.com/statement-of-accomplishment/course/f873dd35b2b9a634cf44f43cb2547bbde4eeb317) - Data Visualization with ggplot2 (Part 2)
+* [6515527](https://www.datacamp.com/statement-of-accomplishment/course/931579ab98e291d880a2fe77bef530e035b8c4cc) - Working with Dates and Times in R
+* [6542975](https://www.datacamp.com/statement-of-accomplishment/course/c34b5ed70b0f391489a7f519014e534070c945ce) - Introduction to Data
+* [6552918](https://www.datacamp.com/statement-of-accomplishment/course/db1d5ff20df7e3b94ad8404735f9db4a9a44fffd) - Exploratory Data Analysis
 * [6560898](https://www.datacamp.com/statement-of-accomplishment/course/27c434a705220badb1e43c16012d341464d8a39a) - Exploratory Data Analysis in R: Case Study
 * [6591786](https://www.datacamp.com/statement-of-accomplishment/course/e68b85ff0f4387f5796a39e73ce55c91c629e56d) - Correlation and Regression
 * [6611741](https://www.datacamp.com/statement-of-accomplishment/course/b03193e085ba2f0b08a0ef4832dc1f89fd7f5458) - Cluster Analysis in R
