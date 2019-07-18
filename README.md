@@ -26,11 +26,11 @@
 * Exploratory Data Analysis Course - [Certificate# 6,552,918](https://www.datacamp.com/statement-of-accomplishment/course/db1d5ff20df7e3b94ad8404735f9db4a9a44fffd)
 * Exploratory Data Analysis in R: Case Study Course - [Certificate# 6,560,898](https://www.datacamp.com/statement-of-accomplishment/course/27c434a705220badb1e43c16012d341464d8a39a)
 * Correlation and Regression Course - [Certificate# 6,591,786](https://www.datacamp.com/statement-of-accomplishment/course/e68b85ff0f4387f5796a39e73ce55c91c629e56d)
-* Cluster Analysis in R Course - [Certificate# 6,611,741](https://www.datacamp.com/statement-of-accomplishment/course/b03193e085ba2f0b08a0ef4832dc1f89fd7f5458)
-* Supervised Learning in R: Classification Course - [Certificate# 7,303,061](https://www.datacamp.com/statement-of-accomplishment/course/25a080cb684cb9437a58c4d9712224d450fd6a8f)
-* Unsupervised Learning in R Course - [7328459](https://www.datacamp.com/statement-of-accomplishment/course/d8bf3d44a165986765c44c074ac6218a3ac734f7)
-* Joining Data in PostgreSQL Course - [7331350](https://www.datacamp.com/statement-of-accomplishment/course/6466e48d9d20340e972c41d96b4616402e5774b4)
-* Reporting with R Markdown Course - [7338137](https://www.datacamp.com/statement-of-accomplishment/course/86460884270835a6333b9ec45c2a7d4f7ea7ea34)
+* [6611741](https://www.datacamp.com/statement-of-accomplishment/course/b03193e085ba2f0b08a0ef4832dc1f89fd7f5458) - Cluster Analysis in R
+* [7303061](https://www.datacamp.com/statement-of-accomplishment/course/25a080cb684cb9437a58c4d9712224d450fd6a8f) - Supervised Learning in R: Classification
+* [7328459](https://www.datacamp.com/statement-of-accomplishment/course/d8bf3d44a165986765c44c074ac6218a3ac734f7) - Unsupervised Learning in R
+* [7331350](https://www.datacamp.com/statement-of-accomplishment/course/6466e48d9d20340e972c41d96b4616402e5774b4) - Joining Data in SQL
+* [7338137](https://www.datacamp.com/statement-of-accomplishment/course/86460884270835a6333b9ec45c2a7d4f7ea7ea34) - Reporting with R Markdown
 * [7338789](https://www.datacamp.com/statement-of-accomplishment/course/10e0b856cf29499c0efbc8197aa047ded4b5cb96) - Intermediate R - Practice
 * [7524259](https://www.datacamp.com/statement-of-accomplishment/course/c42373e39912ab528acf4df6d8179446df44055f) - String Manipulation in R with stringr
 * [7606601](https://www.datacamp.com/statement-of-accomplishment/course/241ff2ca22014081166c37ca0ab48305a842024e) - Object-Oriented Programming in R: S3 and R6
