@@ -24,8 +24,8 @@
 * Working with Dates and Times in R Course - [Certificate# 6,515,527](https://www.datacamp.com/statement-of-accomplishment/course/931579ab98e291d880a2fe77bef530e035b8c4cc)
 * Introduction to Data Course - [Certificate# 6,542,975](https://www.datacamp.com/statement-of-accomplishment/course/c34b5ed70b0f391489a7f519014e534070c945ce)
 * Exploratory Data Analysis Course - [Certificate# 6,552,918](https://www.datacamp.com/statement-of-accomplishment/course/db1d5ff20df7e3b94ad8404735f9db4a9a44fffd)
-* Exploratory Data Analysis in R: Case Study Course - [Certificate# 6,560,898](https://www.datacamp.com/statement-of-accomplishment/course/27c434a705220badb1e43c16012d341464d8a39a)
-* Correlation and Regression Course - [Certificate# 6,591,786](https://www.datacamp.com/statement-of-accomplishment/course/e68b85ff0f4387f5796a39e73ce55c91c629e56d)
+* [6560898](https://www.datacamp.com/statement-of-accomplishment/course/27c434a705220badb1e43c16012d341464d8a39a) - Exploratory Data Analysis in R: Case Study
+* [6591786](https://www.datacamp.com/statement-of-accomplishment/course/e68b85ff0f4387f5796a39e73ce55c91c629e56d) - Correlation and Regression
 * [6611741](https://www.datacamp.com/statement-of-accomplishment/course/b03193e085ba2f0b08a0ef4832dc1f89fd7f5458) - Cluster Analysis in R
 * [7303061](https://www.datacamp.com/statement-of-accomplishment/course/25a080cb684cb9437a58c4d9712224d450fd6a8f) - Supervised Learning in R: Classification
 * [7328459](https://www.datacamp.com/statement-of-accomplishment/course/d8bf3d44a165986765c44c074ac6218a3ac734f7) - Unsupervised Learning in R
