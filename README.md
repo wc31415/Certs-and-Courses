@@ -33,8 +33,8 @@
 * Introduction to Python Course - [7634829](https://www.datacamp.com/statement-of-accomplishment/course/2551bf403cb8dd3c6de0df406659604b54bee173)
 * Intermediate Python for Data Science Course - [8134049](https://www.datacamp.com/statement-of-accomplishment/course/e0af18ff9be56e4190cb973642bd5bbe3f502263)
 * Python Data Science Toolbox (Part 1) Course - [8460965](https://www.datacamp.com/statement-of-accomplishment/course/3038a87f22e9b21b5ff02d902c9231b40a264fc4)
-* Python Data Science Toolbox (Part 2) Course - [8900244](https://www.datacamp.com/statement-of-accomplishment/course/c3fbdd3c8edc11e473a5dce59c9add0bb280e0f7)
-* Importing Data in Python (Part 1) Course - [9093302](https://www.datacamp.com/statement-of-accomplishment/course/1c258602aa16e9c4796c5a9b32da83556dab65b6)
+* [8900244](https://www.datacamp.com/statement-of-accomplishment/course/c3fbdd3c8edc11e473a5dce59c9add0bb280e0f7) Python Data Science Toolbox (Part 2)
+* [9093302](https://www.datacamp.com/statement-of-accomplishment/course/1c258602aa16e9c4796c5a9b32da83556dab65b6) Importing Data in Python (Part 1)
 * [9731159](https://www.datacamp.com/statement-of-accomplishment/course/069415d6ec43986cd91ae6eb0f100a2d520ced1e) Importing Data in Python (Part 2)
 
 
