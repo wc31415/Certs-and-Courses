@@ -45,7 +45,7 @@
 * [10383590](https://www.datacamp.com/statement-of-accomplishment/course/6d90f764ab386545af18088dc71bcff884022b39) - pandas Foundations
 * [10641650](https://www.datacamp.com/statement-of-accomplishment/course/1f0def55d6bf5d0bca367998e88c1b20c455ffdf) - Manipulating DataFrames with pandas
 * [12023251](https://www.datacamp.com/statement-of-accomplishment/course/6bb7cbc8e4b171fa7aa83886aa35beb26eee59b0) - Introduction to R for Finance
-* [12463880](https://www.datacamp.com/statement-of-accomplishment/course/68960776811fefbffe0f2a1c779c566bd32b9e8b) - IntermediateSQL
+* [12463880](https://www.datacamp.com/statement-of-accomplishment/course/68960776811fefbffe0f2a1c779c566bd32b9e8b) - Intermediate SQL
 
 
 
