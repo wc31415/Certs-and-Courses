@@ -47,7 +47,7 @@
 * [12023251](https://www.datacamp.com/statement-of-accomplishment/course/6bb7cbc8e4b171fa7aa83886aa35beb26eee59b0) - Introduction to R for Finance
 * [12463880](https://www.datacamp.com/statement-of-accomplishment/course/68960776811fefbffe0f2a1c779c566bd32b9e8b) - Intermediate SQL
 * [12246191](https://www.datacamp.com/statement-of-accomplishment/course/f870035ae2e5ffb4168a3e10207da416983996c8) - Intermediate R for Finance
-
+* [21172015](https://www.datacamp.com/statement-of-accomplishment/course/a99a864e0bc9f648b0cbfd4694a165e59747cf0d) - Introduction to SQL Server
 
 
 
